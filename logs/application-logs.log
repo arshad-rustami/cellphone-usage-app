@@ -1,0 +1,5 @@
+2021-09-17 20:53:15 INFO  PhoneReportGenerator:53 - Generating report for year: 2018
+2021-09-17 20:53:15 INFO  PdfGenerator:48 - Creating PDF document : 2018_1631893995547.pdf
+2021-09-17 20:53:15 INFO  PdfGenerator:94 - PDF report successfully created.
+2021-09-17 20:53:15 INFO  PhoneReportGenerator:77 - Mobile usage report successfully Generated.
+2021-09-17 20:53:15 INFO  DocumentPrinter:68 - No printer attached to system
